@@ -1,16 +1,18 @@
-## Hi there 👋
+### Emre Can Çelik
+AI Software Developer · Python · FastAPI · RAG / LLM applications
 
-<!--
-**emrecancelik03/emrecancelik03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-assisted backend services and retrieval systems.  
+2+ years professional experience · based in Düzce, Türkiye · open to remote / hybrid / on-site.
 
-Here are some ideas to get you started:
+**Focus:** Python, FastAPI, RAG, hybrid search, LLMs, classical ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+- **[advanced-rag-api](https://github.com/emrecancelik03/advanced-rag-api)** — Hybrid BM25 + vector retrieval with re-ranking (FastAPI)
+- **[ml-3d-printer-optimization](https://github.com/emrecancelik03/ml-3d-printer-optimization)** — Capstone: XGBoost parameter optimization (~20%+ vs weak defaults)
+- **[fastapi-openai-microservice](https://github.com/emrecancelik03/fastapi-openai-microservice)** — Text classification + content generation API
+- **[ecommerce-price-scraper](https://github.com/emrecancelik03/ecommerce-price-scraper)** — Catalog scrape + pandas price reports
+- **[workflow-automation](https://github.com/emrecancelik03/workflow-automation)** — CRM CSV sync / ops automation
+
+### Links
+- LinkedIn: [linkedin.com/in/emrecancelik03](https://linkedin.com/in/emrecancelik03)
+- Email: emrecanclk03@gmail.com
